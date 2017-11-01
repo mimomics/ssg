@@ -1,0 +1,27 @@
+Copyright (c) [2017] Pharmatics Limited
+All Rights Reserved.
+
+NOTICE:  All information contained herein is, and remains the property
+of Pharmatics Limited. The intellectual and technical concepts contained
+herein are proprietary to Pharmatics Limited and are protected by
+copyright law.
+
+Copying and exploitation of this software is permitted strictly for
+academic non-commercial research and teaching purposes only.
+
+Without limitation, any reproduction, modification, sub-licensing,
+redistribution of this software, or any commercial use of any part of
+this software including corporate or for-profit research or as the basis
+of commercial product or service provision, is forbidden unless
+a license is obtained from Pharmatics Limited by contacting
+info@pharmaticsltd.com.
+
+THE CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL PHARMATICS LIMITED BE LIABLE TO ANY PARTY FOR DIRECT,
+INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST
+PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS  DOCUMENTATION,
+EVEN IF PHARMATICS LIMITED HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
